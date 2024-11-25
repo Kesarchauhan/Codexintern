@@ -2,10 +2,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import pandas as pd
 
-
-
-
-# Load Mobile Device Usage dataset
+# Load  dataset
 file_path = r"C:\Users\Kesar\Desktop\Sales_Data.csv"  
 data = pd.read_csv(file_path)
 
